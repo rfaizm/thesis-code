@@ -17,5 +17,19 @@ This repository serves as a central index for all source code related to the the
 - Repository: https://github.com/rfaizm/backend-angkot.git
 - Description: Backend service for managing data, authentication, and real-time communication.
 
+## 🎥 Application Demo Videos
+The following demo videos showcase multiple usage scenarios of the angkot real-time information system,
+including both driver and passenger applications.
+
+📁 Demo Videos : 
+https://drive.google.com/drive/folders/1dLPcvjWVNO4mJIAQwKt0EVYFFnVHzm7O
+
+### Demo Scenarios
+- Scenario 1: Passengers have not been picked up at the pick-up point
+- Scenario 2: Passengers successfully ordered angkot
+- Scenario 3: There are passengers on the angkot
+
+
 ## Notes
-This repository is created for documentation and reference purposes.
+- This repository is created for documentation and reference purposes.
+- The videos are provided for demonstration purposes.
